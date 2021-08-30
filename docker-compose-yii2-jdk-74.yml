@@ -1,0 +1,6 @@
+version: '3.2'
+
+services:
+  yii2-jdk-jasper-php7.4:
+    build: yii2-jdk-jasper-php7.4
+    container_name: yii2-jdk-jasper

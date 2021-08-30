@@ -1,0 +1,9 @@
+version: '3.2'
+
+services:
+  remoteamf:
+    build: yii2-remoteamf
+    container_name: yii2-remoteamf
+
+
+#docker image tag docker-jdk8_remoteamf:latest rintoexsinaga/remoteamf:latest
