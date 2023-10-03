@@ -1,0 +1,6 @@
+version: '3.2'
+
+services:
+ idempiere31-ubuntu:
+    build: idempiere31-ubuntu16
+    container_name: idempiere31-ubuntu16
